@@ -6,7 +6,12 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on [RazorPageCleanArchitecture](https://github.com/neozhu/RazorPageCleanArchitecture)
 - 💬 Ask me about [here](https://github.com/neozhu/neozhu/issues)
 
-
+### Skill description
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/285d19f261b6d469fd8a309dddb234371d7be462/topics/database/database.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 
 [![neozhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=neozhu&show_icons=true&theme=github_dark)](https://github.com/neozhu/neozhu)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neozhu&layout=compact&theme=github_dark&langs_count=4&hide=css,jupyter%20notebook,html,powershell,php)](https://github.com/neozhu/neozhu)
