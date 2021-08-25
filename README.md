@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neozhu&layout=compact&theme=github_dark&langs_count=4&hide=css,jupyter%20notebook,html,powershell,php)](https://github.com/neozhu/neozhu)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neozhu&repo=RazorPageCleanArchitecture&theme=github_dark)](https://github.com/neozhu/RazorPageCleanArchitecture)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neozhu&repo=CleanArchitectureCodeGenerator&theme=github_dark)](https://github.com/neozhu/CleanArchitectureCodeGenerator)
+
 
 
  
 <!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neozhu&repo=RazorPageCleanArchitecture&theme=github_dark)](https://github.com/neozhu/RazorPageCleanArchitecture)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neozhu&repo=CleanArchitectureCodeGenerator&theme=github_dark)](https://github.com/neozhu/CleanArchitectureCodeGenerator)
 **neozhu/neozhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
