@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 
 [![neozhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=neozhu&show_icons=true&theme=github_dark)](https://github.com/neozhu/neozhu)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neozhu&layout=compact&theme=github_dark&hide=css,html,powershell,php,jupyternotebook)](https://github.com/neozhu/neozhu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neozhu&layout=compact&theme=github_dark&hide=css,jupyter%20notebook,html,powershell,php)](https://github.com/neozhu/neozhu)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neozhu&repo=RazorPageCleanArchitecture&theme=github_dark)](https://github.com/neozhu/RazorPageCleanArchitecture)
