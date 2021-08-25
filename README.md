@@ -8,16 +8,12 @@ Here are some ideas to get you started:
 
 
 
-[![neozhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=neozhu&show_icons=true)](https://github.com/neozhu/neozhu)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neozhu&layout=compact&hide=css,html,powershell,php,jupyternotebook)](https://github.com/neozhu/neozhu)
+[![neozhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=neozhu&show_icons=true&theme=github_dark)](https://github.com/neozhu/neozhu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neozhu&layout=compact&theme=github_dark&hide=css,html,powershell,php,jupyternotebook)](https://github.com/neozhu/neozhu)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neozhu&repo=RazorPageCleanArchitecture)](https://github.com/neozhu/RazorPageCleanArchitecture)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neozhu&repo=smartadmin.core.urf)](https://github.com/neozhu/smartadmin.core.urf)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neozhu&repo=CleanArchitectureCodeGenerator)](https://github.com/neozhu/CleanArchitectureCodeGenerator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neozhu&repo=abpvnextsmartcodegenerator)](https://github.com/neozhu/abpvnextsmartcodegenerator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neozhu&repo=MVC5-Scaffolder)](https://github.com/neozhu/MVC5-Scaffolder)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neozhu&repo=ctmswxapp)](https://github.com/neozhu/ctmswxapp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neozhu&repo=RazorPageCleanArchitecture&theme=github_dark)](https://github.com/neozhu/RazorPageCleanArchitecture)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neozhu&repo=CleanArchitectureCodeGenerator&theme=github_dark)](https://github.com/neozhu/CleanArchitectureCodeGenerator)
 
 
  
