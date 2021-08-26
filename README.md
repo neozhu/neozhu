@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **neo.js.cn@gmail.com**
 
-- ⚡ Fun fact **I think I am rational guy.**
+- ⚡ **I think I am rational guy.**
 
 
 <h3 align="left">Languages and Tools:</h3>
