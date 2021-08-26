@@ -1,39 +1,31 @@
-### Hi there, I'm Hualin 👋 
-Here are some ideas to get you started:
+
+<h1 align="center">Hi there 👋, I'm Hualin</h1>
+<h3 align="center">A passionate .net developer from China</h3>
+
 
 - 🔭 I’m currently working on [RazorPageCleanArchitecture](https://github.com/neozhu/RazorPageCleanArchitecture)
-- 🌱 I’m currently learning English
-- 👯 I’m looking to collaborate on [RazorPageCleanArchitecture](https://github.com/neozhu/RazorPageCleanArchitecture)
-- 💬 Ask me about [here](https://github.com/neozhu/neozhu/issues)
 
-### Skill description
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/285d19f261b6d469fd8a309dddb234371d7be462/topics/database/database.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
+- 🌱 I’m currently learning **English**
 
-[![neozhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=neozhu&show_icons=true&theme=github_dark)](https://github.com/neozhu/neozhu)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neozhu&layout=compact&theme=github_dark&langs_count=4&hide=css,jupyter%20notebook,html,powershell,php)](https://github.com/neozhu/neozhu)
+- 👯 I’m looking to collaborate on [CleanArchitectureCodeGenerator](https://github.com/neozhu/CleanArchitectureCodeGenerator)
 
+- 🤝 I’m looking for help with [CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
 
+- 📝 I regularly write articles on [https://www.cnblogs.com/neozhu/](https://www.cnblogs.com/neozhu/)
 
+- 💬 Ask me about **BizTalk**
+
+- 📫 How to reach me **neo.js.cn@gmail.com**
+
+- ⚡ Fun fact **I think I am rational guy.**
 
 
- 
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neozhu&repo=RazorPageCleanArchitecture&theme=github_dark)](https://github.com/neozhu/RazorPageCleanArchitecture)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neozhu&repo=CleanArchitectureCodeGenerator&theme=github_dark)](https://github.com/neozhu/CleanArchitectureCodeGenerator)
-**neozhu/neozhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="20" height="20"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="20" height="20"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="20" height="20"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> </a> <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="20" height="20"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="20" height="20"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="20" height="20"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="20" height="20"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="20" height="20"/> </a> </p>
 
-Here are some ideas to get you started:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neozhu&show_icons=true&locale=en&layout=compact&langs_count=4&hide=css,jupyter%20notebook,html,powershell,php" alt="neozhu" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neozhu&show_icons=true&locale=en" alt="neozhu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neozhu&" alt="neozhu" /></p>
+
