@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://www.cnblogs.com/neozhu/](https://www.cnblogs.com/neozhu/)
 
-- 💬 Ask me about **BizTalk**
+- 💬 Ask me about [**here**](https://github.com/neozhu/neozhu/issues)
 
 - 📫 How to reach me **neo.js.cn@gmail.com**
 
