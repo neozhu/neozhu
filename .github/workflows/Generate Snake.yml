@@ -1,3 +1,5 @@
+# GitHub Action for generating a contribution graph with a snake eating your contributions.
+# see https://github.com/L1cardo/L1cardo/blob/main/.github/workflows/Generate%20Snake.yml
 name: Generate Snake
 
 on:
