@@ -19,6 +19,8 @@
 
 - ⚡ **I think I am rational guy.**
 
+![](https://raw.githubusercontent.com/neozhu/neozhu/main/assets/github-contribution-grid-snake.svg)
+
 ![Visitors since 11 Seq 2021](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=neozhu&repo=neozhu&countColor=%237B1E7A)
 
 <h3 align="left">Languages and Tools:</h3>
