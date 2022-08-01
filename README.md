@@ -3,13 +3,13 @@
 <h3 align="center">A passionate .net developer from China</h3>
 
 
-- 🔭 I’m currently working on [RazorPageCleanArchitecture](https://github.com/neozhu/RazorPageCleanArchitecture)
+- 🔭 I’m currently working on [CleanArchitecture for Blazor](https://github.com/neozhu/CleanArchitectureWithBlazorServer)
 
 - 🌱 I’m currently learning **English**
 
 - 👯 I’m looking to collaborate on [CleanArchitectureCodeGenerator](https://github.com/neozhu/CleanArchitectureCodeGenerator)
 
-- 🤝 I’m looking for help with [CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
+- 🤝 I’m looking for help with [CleanArchitecture for Blazor](https://github.com/neozhu/CleanArchitectureWithBlazorServer)
 
 - 📝 I regularly write articles on [https://www.cnblogs.com/neozhu/](https://www.cnblogs.com/neozhu/)
 
