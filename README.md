@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi there 👋, I'm HaHa</h1>
-<h3 align="center">A passionate .net developer from China</h3>
+<h1 align="center">Hi there 👋, I'm Ha</h1>
+<h3 align="center">A passionate .net developer from Ch</h3>
 
 
 - 🔭 I’m currently working on [CleanArchitecture for Blazor](https://github.com/neozhu/CleanArchitectureWithBlazorServer)
