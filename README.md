@@ -71,15 +71,15 @@
  <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/neozhu/neozhu/output/profile-night-rainbow.svg"
+    srcset="https://raw.githubusercontent.com/neozhu/neozhu/output3d/profile-night-rainbow.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/neozhu/neozhu/output/profile-season-animate.svg"
+    srcset="https://raw.githubusercontent.com/neozhu/neozhu/output3d/profile-season-animate.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/neozhu/neozhu/output/profile-south-season-animate.svg"
+    src="https://raw.githubusercontent.com/neozhu/neozhu/output3d/profile-south-season-animate.svg"
   />
 </picture>
 
