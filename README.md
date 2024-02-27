@@ -43,9 +43,30 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="20" height="20"/> </a> 
   <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="20" height="20"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neozhu&show_icons=true&locale=en&layout=compact&langs_count=4&hide=css,jupyter%20notebook,html,powershell,php" alt="neozhu" /></p>
+ 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=neozhu&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=neozhu&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=neozhu&show_icons=true" />
+</picture>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neozhu&show_icons=true&locale=en" alt="neozhu" /></p>
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com/?user=neozhu&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com/?user=neozhu"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://streak-stats.demolab.com/?user=neozhu" />
+</picture>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neozhu&" alt="neozhu" /></p>
+ 
 
