@@ -9,7 +9,7 @@
 - 📝 I regularly write articles on [my site](https://www.blazorserver.com).
 - 💬 Ask me anything [here](https://github.com/neozhu/neozhu/issues).
 - 📫 You can reach me at **neo.js.cn@gmail.com** for any inquiries.
-- ⚡ Fun fact: **I consider myself a rational person.**
+
 
 
 
