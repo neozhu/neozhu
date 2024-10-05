@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **English** to improve my communication skills.
 - 👯 I’m open to collaborating on interesting projects, especially in .NET and Blazor.
 - 🤝 I’m available for freelance development tasks and side projects to make use of my free time and earn some extra income. Feel free to reach out if you need help with your project.
-- 📝 I regularly write articles on [my blog](https://blazorserver.com).
+- 📝 I regularly write articles on [my site](https://www.blazorserver.com).
 - 💬 Ask me anything [here](https://github.com/neozhu/neozhu/issues).
 - 📫 You can reach me at **neo.js.cn@gmail.com** for any inquiries.
 - ⚡ Fun fact: **I consider myself a rational person.**
