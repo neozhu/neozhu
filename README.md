@@ -2,13 +2,22 @@
 <h1 align="center">Hi there 👋, I'm Ha</h1>
 <h3 align="center">A passionate .NET developer from China</h3>
 
-- 🔭 I’m currently working on [CleanArchitecture for Blazor](https://github.com/neozhu/CleanArchitectureWithBlazorServer), my most popular Blazor project.
-- 🌱 I’m currently learning **English** to improve my communication skills.
-- 👯 I’m open to collaborating on interesting projects, especially in .NET and Blazor.
-- 🤝 I’m available for freelance development tasks and side projects to make use of my free time and earn some extra income. Feel free to reach out if you need help with your project.
-- 📝 I regularly write articles on [my site](https://www.blazorserver.com).
-- 💬 Ask me anything [here](https://github.com/neozhu/neozhu/issues).
-- 📫 You can reach me at **neo.js.cn@gmail.com** for any inquiries.
+Here's the updated self-introduction reflecting that *CleanArchitecture for Blazor* is already completed:
+
+---
+
+- 🔭 I’ve successfully completed [CleanArchitecture for Blazor](https://github.com/neozhu/CleanArchitectureWithBlazorServer), my most popular Blazor project.  
+- 🌱 I’m currently working on [CleanAspire](https://github.com/neozhu/cleanaspire), a .NET 9 Aspire project template focused on modern Blazor development.  
+- 🌱 I’m also learning **English** to improve my communication skills.  
+- 👯 I’m open to collaborating on interesting projects, especially in .NET and Blazor.  
+- 🤝 I’m available for freelance development tasks and side projects to make use of my free time and earn some extra income. Feel free to reach out if you need help with your project.  
+- 📝 I regularly write articles on [my site](https://www.blazorserver.com).  
+- 💬 Ask me anything [here](https://github.com/neozhu/neozhu/issues).  
+- 📫 You can reach me at **neo.js.cn@gmail.com** for any inquiries.  
+
+---
+
+Let me know if you need further refinements!
 
 
 
