@@ -2,9 +2,6 @@
 <h1 align="center">Hi there 👋, I'm Ha</h1>
 <h3 align="center">A passionate .NET developer from China</h3>
 
-Here's the updated self-introduction reflecting that *CleanArchitecture for Blazor* is already completed:
-
----
 
 - 🔭 I’ve successfully completed [CleanArchitecture for Blazor](https://github.com/neozhu/CleanArchitectureWithBlazorServer), my most popular Blazor project.  
 - 🌱 I’m currently working on [CleanAspire](https://github.com/neozhu/cleanaspire), a .NET 9 Aspire project template focused on modern Blazor development.  
