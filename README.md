@@ -141,7 +141,7 @@ Automate repetitive work and keep operations predictable.
 <p align="center">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=neozhu&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"
+    src="https://github-stats-extended.vercel.app/api?username=neozhu&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"
     alt="Hualin's GitHub statistics"
   />
   <img
